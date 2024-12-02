@@ -1,4 +1,4 @@
-Descripción del Proyecto:
+## Descripción del Proyecto:
 
 En este proyecto, exploramos la viabilidad de un innovador café atendido por robots en Los Ángeles. Ante el costo elevado de esta iniciativa, buscamos atraer inversionistas interesados en comprender las condiciones actuales del mercado. Nuestro objetivo es determinar si el negocio puede mantener su éxito a largo plazo una vez que desaparezca el interés inicial por los camareros robotizados.
 
